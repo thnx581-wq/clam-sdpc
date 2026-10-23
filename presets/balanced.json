@@ -1,0 +1,5 @@
+{
+  "segmentation": {"seg_level": -1, "sthresh": 16, "mthresh": 7, "close": 3, "use_otsu": false},
+  "filter": {"a_t": 100, "a_h": 8, "max_n_holes": 32},
+  "patch": {"use_padding": true, "contour_fn": "center"}
+}
